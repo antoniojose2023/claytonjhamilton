@@ -49,7 +49,7 @@ exceeded the recommended US EPA level of 50 PM10.
 <p align="center"><a 
 href="https://github.com/claytonjhamilton" target="_blank"><img alt="Github" 
 src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a 
-href="https://www.linkedin.com/in/clayton-j-hamilton" target="_blank"><img alt="LinkedIn" 
+href="https://www.linkedin.com/in/antoniojoseuchoa/" target="_blank"><img alt="LinkedIn" 
 src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" /></a> <a 
 href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" 
 src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a><br><a 
@@ -62,7 +62,7 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
 </p>
 <br>
 <p align="center">
-  <img alt="centered image" height="85" src="images/us.svg"/>
+  <img alt="centered image" height="85" src="images/br.svg"/>
   <br>
   <img alt="README Update" 
   src="https://github.com/claytonjhamilton/claytonjhamilton/actions/workflows/readme_update.yaml/badge.svg" />
